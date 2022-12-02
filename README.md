@@ -1,12 +1,16 @@
 Consignes :
 
-    I - A partir du tableau présent dans le fichier javascrit, ajouter des éléments contenant les entrées du tableau à
-    l'élément ul ayant pour id "listeCourse"
-    II - Permettre à l'utilisateur de masquer une entrée de la liste ( ajouter un lien ou une image à coté de chaque entrée )
-    III -  Permettre à l'utilisateur d'ajouter une entrée à la liste ( créer un champ input texte et un bouton ) , mettre à jour le tableau
+    I - A partir du tableau présent dans le fichier javascrit, ajouter des éléments contenant 
+      les entrées du tableau à l'élément ul ayant pour id "listeCourse"
+    II - Permettre à l'utilisateur de masquer une entrée de la liste ( ajouter un lien ou une image à 
+      coté de chaque entrée )
+    III -  Permettre à l'utilisateur d'ajouter une entrée à la liste ( créer un champ input texte et un bouton )
+      , mettre à jour le tableau
     en conséquence
-    IV - Permettre à l'utilisateur de supprimer la derniére entrée de la liste, mettre à jour le tableau en conséquence.
-    V - Afficher sous forme de texte le contenu du tableau dans un div, faire en sorte que le contenu du div soit mis à jour
+    IV - Permettre à l'utilisateur de supprimer la derniére entrée de la liste, mettre à jour le tableau 
+      en conséquence.
+    V - Afficher sous forme de texte le contenu du tableau dans un div, faire en sorte que le contenu du 
+      div soit mis à jour
     lorsque l'utilisateur ajoute ou supprime une entrée
     BONUS - Permettre à l'utlisateur de supprimer n'importe quelle entrée de la liste
     BONUS - Permettre à l'utilisater de réorganier les entrées de la liste
